@@ -1,0 +1,5 @@
+### GET request to example server
+#POST http://localhost:3001/tasks
+###
+
+#POST http://localhost:3001/auth/signin?username=Sourabh
